@@ -1,0 +1,18 @@
+{
+    "1": {
+        "nombre": "Cortadora de césped",
+        "estado": "Activa"
+    },
+    "2": {
+        "nombre": "Taladro percutor",
+        "estado": "Activa"
+    },
+    "3": {
+        "nombre": "Motosierra",
+        "estado": "En reparación"
+    },
+    "4": {
+        "nombre": "sierra electrica",
+        "estado": "En reparación"
+    }
+}
